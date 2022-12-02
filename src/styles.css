@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  box-sizing: border-box;
+}
+.headingLine {
+  margin: 10px;
+}
+.content {
+  margin: 10px;
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  flex-flow: wrap;
+}
+.card {
+  margin: 10px 20px;
+  flex: none;
+  width: 100%;
+}
